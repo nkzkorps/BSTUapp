@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">@dimen/s20</item>
+        <item name="android:textColor">@color/mycolor_text</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="Toolbar.SubtitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">@dimen/s12</item>
+        <item name="android:textColor">@color/grey_79</item>
+        <item name="android:fontFamily">sans_serif_regular</item>
+    </style>
+
+    <style name="TransparentToolbar" parent="@style/Toolbar">
+        <item name="android:background">@color/transparent</item>
+    </style>
+
+    <style name="Toolbar" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textAppearance">@style/Toolbar.TitleText</item>
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">@color/white</item>
+        <item name="android:background">@color/mycolor_toolbar</item>
+    </style>
+
+    <style name="MerchToolbar" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:textAppearance">@style/Toolbar.TitleText</item>
+        <item name="colorControlNormal">@color/black_17</item>
+        <item name="colorControlActivated">@color/black_17</item>
+        <item name="contentInsetStartWithNavigation">0dp</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Dark</item>
+        <item name="subtitleTextAppearance">@style/Toolbar.SubtitleText</item>
+        <item name="titleTextAppearance">@style/Toolbar.TitleText</item>
+    </style>
+
+    <style name="MerchTransparentToolbar" parent="@style/MerchToolbar">
+        <item name="elevation">0dp</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="subtitleTextColor">@color/black_17</item>
+        <item name="titleTextColor">@color/black_17</item>
+    </style>
+
+
+    <style name="BSTUToolbar" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:textSize">@dimen/s20</item>
+        <item name="android:textColor">@color/mycolor_text</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:background">@color/mycolor_toolbar</item>
+        <item name="colorControlNormal">@color/black_17</item>
+        <item name="colorControlActivated">@color/black_17</item>
+        <item name="contentInsetStartWithNavigation">0dp</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Dark</item>
+        <item name="subtitleTextAppearance">@style/Toolbar.SubtitleText</item>
+        <item name="titleTextAppearance">@style/Toolbar.TitleText</item>
+    </style>
+
+
+
+
+</resources>

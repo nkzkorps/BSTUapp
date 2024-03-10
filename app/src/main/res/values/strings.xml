@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BSTUApp</string>
+    <string name="Agreement">Настоящим подтверждаю, что я ознакомлен с условиями политики обработки персональных данных и даю согласие на обработку персональных данных</string>
+    <string name="e_mail">Корпоративный E-mail</string>
+    <string name="password">Пароль</string>
+</resources>

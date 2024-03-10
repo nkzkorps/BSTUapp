@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="content_horizontal_padding">16dp</dimen>
+    <dimen name="content_vertical_padding">8dp</dimen>
+
+    <dimen name="map_button_size">48dp</dimen>
+    <dimen name="map_button_elevation">8dp</dimen>
+
+    <dimen name="toolbar_search_container_height">44dp</dimen>
+
+    <dimen name="s4">4dp</dimen>
+    <dimen name="s8">8dp</dimen>
+    <dimen name="s9">9dp</dimen>
+    <dimen name="s10">10dp</dimen>
+    <dimen name="s11">11dp</dimen>
+    <dimen name="s12">12dp</dimen>
+    <dimen name="s13">13dp</dimen>
+    <dimen name="s14">14dp</dimen>
+    <dimen name="s15">15dp</dimen>
+    <dimen name="s16">16dp</dimen>
+    <dimen name="s17">17dp</dimen>
+    <dimen name="s18">18dp</dimen>
+    <dimen name="s20">20dp</dimen>
+    <dimen name="s22">22dp</dimen>
+    <dimen name="s24">24dp</dimen>
+    <dimen name="s26">26dp</dimen>
+    <dimen name="s28">28dp</dimen>
+    <dimen name="s76">76dp</dimen>
+
+    <dimen name="design_tab_content_bottom_margin">56dp</dimen>
+    <dimen name="toolbar_controls_container_height">60dp</dimen>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mycolor_toolbar">#35363a</color>
+    <color name="mycolor_text">#ffffff</color>
+    <color name="button_off">#393939</color>
+    <color name="button_on_start">#0185a4</color>
+    <color name="button_on_center">#1891bc</color>
+    <color name="button_on_end">#4aa7b5</color>
+    <color name="panel_color">#2e2e31</color>
+
+    <color name="dim_outline">#575757</color>
+
+    <color name="day_header">#3d3d3d</color>
+    <color name="day_header_active">#2f5541</color>
+
+    <color name="lecture">#46549c</color>
+    <color name="lab">#1c7b65</color>
+    <color name="practice">#1f80a5</color>
+    <color name="exam">#84613d</color>
+    <color name="consultation">#1c7b65</color>
+
+
+
+
+
+
+    <color name="black">#000000</color>
+    <color name="black_17">#141517</color>
+    <color name="black_alpha_25">#40000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_alpha_50">#80FFFFFF</color>
+    <color name="white_alpha_60">#99FFFFFF</color>
+
+    <color name="grey_32">#323232</color>
+    <color name="grey_79">#6C6D79</color>
+    <color name="grey_9d">#908F9D</color>
+    <color name="grey_9d_alpha_30">#4D908F9D</color>
+    <color name="grey_9f">#93949F</color>
+    <color name="grey_a0">#9297A0</color>
+    <color name="grey_91a3">#8F91A3</color>
+    <color name="grey_a5">#9FA0A5</color>
+    <color name="grey_9aa3">#999AA3</color>
+    <color name="grey_b7">#AEAFB7</color>
+    <color name="grey_b8">#ADB1B8</color>
+    <color name="grey_b9">#B9B9B9</color>
+    <color name="grey_dee5">#DFDEE5</color>
+    <color name="grey_e0">#DCDEE0</color>
+    <color name="grey_ee">#E8ECEE</color>
+    <color name="grey_f0f4">#EBF0F4</color>
+    <color name="grey_f5">#F2F3F5</color>
+    <color name="grey_f6f8">#F4F6F8</color>
+
+    <color name="blue_bb">#1863BB</color>
+    <color name="blue_c4">#1B69C4</color>
+    <color name="blue_e6">#257EE6</color>
+    <color name="blue_e6_alpha_50">#80257EE6</color>
+    <color name="blue_ef">#76AEEF</color>
+    <color name="blue_fd">#2F9AFD</color>
+    <color name="blue_f5">#F2F3F5</color>
+    <color name="blue_f7">#BED8F7</color>
+
+    <color name="red_3c">#FF343C</color>
+    <color name="red_3946">#E63946</color>
+    <color name="red_44">#FA3444</color>
+    <color name="red_55">#E72755</color>
+    <color name="red_5a">#FB645A</color>
+    <color name="red_e8">#FEE6E8</color>
+    <color name="orange_28">#FF6A28</color>
+    <color name="yellow_27">#EBB427</color>
+
+    <color name="green_5e">#51B15E</color>
+    <color name="green_53">#43B853</color>
+    <color name="green_68">#65B568</color>
+    <color name="green_a746">#15A746</color>
+    <color name="green_af46">#7BAF46</color>
+
+    <color name="colorPrimary">#1178BB</color>
+    <color name="colorPrimaryDark">#1178BB</color>
+    <color name="colorAccent">#1178BB</color>
+
+    <color name="transparent">#00000000</color>
+</resources>
